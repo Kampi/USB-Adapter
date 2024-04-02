@@ -147,7 +147,7 @@
 			(unlocked yes)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "d07bb7e5-b7ee-491d-a77c-eebcbacdcd72")
+			(uuid "47c228c7-ed7c-4ee5-a49c-e07839a9b88e")
 			(effects
 				(font
 					(size 1 1)
@@ -160,7 +160,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89356f5f-a32c-4cd2-bfa4-4053b73c037e")
+			(uuid "fdc009da-8bea-4236-b4a4-8697dc1d1776")
 			(effects
 				(font
 					(size 1 1)
@@ -173,7 +173,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fe9a96c4-e5d8-4e33-9798-58847326d8ef")
+			(uuid "7c60567d-cb87-4007-a9f9-91da5b6b6c05")
 			(effects
 				(font
 					(size 1 1)
@@ -186,7 +186,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "725144f4-4cf1-4b4b-92e0-9dc9b4372a37")
+			(uuid "1d9615c7-29ae-4c6d-b1a2-20f452986aec")
 			(effects
 				(font
 					(size 1 1)
@@ -199,7 +199,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "408f0d48-f9e4-4b06-9536-ddd3967b417c")
+			(uuid "b0f44f22-252e-4471-86fb-76a98db270ed")
 			(effects
 				(font
 					(size 1 1)
@@ -272,11 +272,8 @@
 				)
 			)
 		)
-		(property ki_fp_filters "USB*")
 		(path "/631e6726-e4c5-4dba-8033-bc5901953d96")
-		(sheetname "Stammblatt")
-		(sheetfile "USB-Adapter.kicad_sch")
-		(attr smd)
+		(attr through_hole)
 		(fp_circle
 			(center 4.826 -2.921)
 			(end 5.019441 -2.921)
@@ -286,7 +283,7 @@
 			)
 			(fill none)
 			(layer "F.SilkS")
-			(uuid "d32cacf6-15a3-406c-8bd2-b377c66e0c58")
+			(uuid "3150afea-c259-48aa-9eaa-c3ed73312af9")
 		)
 		(fp_line
 			(start -6 2.75)
@@ -296,7 +293,7 @@
 				(type default)
 			)
 			(layer "Dwgs.User")
-			(uuid "fe765b69-a80f-4e15-9974-46388c389b85")
+			(uuid "896266b8-1dfa-4cba-a226-79c96e926940")
 		)
 		(fp_line
 			(start -6.9088 18.0594)
@@ -306,7 +303,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "329a20d6-fc04-45f7-ae03-5a41b136c17c")
+			(uuid "fd9c2bde-67da-43ce-809e-ee5b35ddade4")
 		)
 		(fp_line
 			(start -6.9088 18.0594)
@@ -316,7 +313,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "9a1dfab2-e417-4877-b30f-27143838d16f")
+			(uuid "b29b19a2-3b67-4591-9655-97451e222fab")
 		)
 		(fp_line
 			(start 6.909 18.0594)
@@ -326,27 +323,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "627246fe-d8f5-413c-8426-c7621967139d")
-		)
-		(fp_line
-			(start 0 0.5)
-			(end 0 -0.5)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "9d3ca52f-2f28-4d0b-be78-1970360cd781")
-		)
-		(fp_line
-			(start -0.5 0)
-			(end 0.5 0)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "32e52372-c2e6-4836-b359-7fcd6240c000")
+			(uuid "4127bab9-85fe-4e5b-95ff-9bac8d819c21")
 		)
 		(fp_line
 			(start -6.9088 -4.2672)
@@ -356,7 +333,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "78ad3062-4849-43af-9b49-5c356d1a9c3e")
+			(uuid "fc57a0d3-e492-4e04-83a0-663cc01946cd")
 		)
 		(fp_line
 			(start -5.969 17.78)
@@ -366,7 +343,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c1ad6011-0d3e-4a81-9e8b-62ac2b72b1eb")
+			(uuid "5540719b-6d49-490a-ad73-dbfa1c87f6ea")
 		)
 		(fp_line
 			(start -5.969 17.78)
@@ -376,7 +353,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "81f0b7c8-b1d5-48d0-81f4-7c169e840c9d")
+			(uuid "daeb11ca-730c-444f-aad6-634ae1bbb1f9")
 		)
 		(fp_line
 			(start 5.969 17.78)
@@ -386,7 +363,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "7c40d07d-f07a-44ab-8241-84080bd8be12")
+			(uuid "5a42a895-dfc8-4511-be52-55d6af455812")
 		)
 		(fp_line
 			(start -5.9692 -1.0668)
@@ -396,14 +373,14 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "e3cc2830-4a25-41a2-9c0f-cb926ba42408")
+			(uuid "62b1070d-7222-48ef-b252-6d6bee93d1f1")
 		)
 		(fp_text user "Edge"
 			(at -1.5 4.1 -90)
 			(unlocked yes)
 			(layer "Dwgs.User")
 			(hide yes)
-			(uuid "4d2e7e10-a4e2-4a21-8e0c-72eb42fc502e")
+			(uuid "e5b0b12e-7951-4223-a993-3224144eeb28")
 			(effects
 				(font
 					(size 1 1)
@@ -413,10 +390,10 @@
 			)
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0.05 2.4 -90)
+			(at 0 -5.2 -90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(uuid "d7a22843-9fdf-4e25-beac-7ca802c30a06")
+			(uuid "c495b481-2e8b-4fa8-b078-ab332ee94a23")
 			(effects
 				(font
 					(size 1 1)
@@ -429,14 +406,14 @@
 			(size 1.1 1.1)
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
-			(uuid "1f2915b7-0868-40ab-a785-e28bb54bb7fa")
+			(uuid "79a27871-2964-4107-b12d-3aedec3ad8b6")
 		)
 		(pad "" np_thru_hole circle
 			(at 2.25 0 270)
 			(size 1.1 1.1)
 			(drill 1.1)
 			(layers "*.Cu" "*.Mask")
-			(uuid "d64bef4d-8c8b-4faa-989a-22762100625f")
+			(uuid "9d184af0-b12d-4518-be3c-7626b5f01c1d")
 		)
 		(pad "1" smd rect
 			(at 3.5 -2.75 270)
@@ -446,7 +423,7 @@
 			(pinfunction "VBUS")
 			(pintype "power_in+no_connect")
 			(solder_mask_margin 0.102)
-			(uuid "278d8dc7-b9e1-4c60-8197-bd73431621e8")
+			(uuid "286bdd84-904c-4815-bca3-26aebb6cd113")
 		)
 		(pad "2" smd rect
 			(at 1 -2.75 270)
@@ -456,7 +433,7 @@
 			(pinfunction "D-")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "330e5ea8-689b-428a-934f-d8e1a3152246")
+			(uuid "0659bf2b-04c2-4faf-97f7-6d5c0a907f68")
 		)
 		(pad "3" smd rect
 			(at -1 -2.75 270)
@@ -466,7 +443,7 @@
 			(pinfunction "D+")
 			(pintype "bidirectional")
 			(solder_mask_margin 0.102)
-			(uuid "a0a8ac3c-d224-45ad-aacc-d945789ddabc")
+			(uuid "260838c6-260d-42a0-bcc4-d2da4f1a77d2")
 		)
 		(pad "4" smd rect
 			(at -3.5 -2.75 270)
@@ -476,7 +453,7 @@
 			(pinfunction "GND")
 			(pintype "power_in")
 			(solder_mask_margin 0.102)
-			(uuid "e69b240d-200c-4702-b8ed-04b280a20679")
+			(uuid "84470208-62d2-4f94-b4d6-3d2cf71c6793")
 		)
 		(pad "5" thru_hole oval
 			(at -5.85 0)
@@ -488,7 +465,7 @@
 			(pinfunction "Shield")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "72f92f4a-39c6-4acb-a210-86ce41ecef51")
+			(uuid "5220641e-44cb-43c4-88a0-124b6600ca5f")
 		)
 		(pad "5" thru_hole oval
 			(at 5.85 0)
@@ -500,7 +477,7 @@
 			(pinfunction "Shield")
 			(pintype "passive")
 			(thermal_bridge_angle 45)
-			(uuid "9903cc82-3059-4263-9b08-7971e06554da")
+			(uuid "0b8f1009-a938-4b1d-86cf-2b0713c763b0")
 		)
 		(model "${KICAD_LIBRARY}/3D/Connector_USB/GCT/USB1061-GF-L-A.stp"
 			(offset
@@ -521,7 +498,7 @@
 		(descr "USB type A, Horizontal, https://www.molex.com/pdm_docs/sd/676433910_sd.pdf")
 		(tags "USB_A Female Connector receptacle")
 		(property "Reference" "X102"
-			(at 3.5 -3.19 270)
+			(at 3.5 -3.19 -90)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9e6ebc88-9676-4315-b750-0d2b83eb300c")
@@ -533,7 +510,7 @@
 			)
 		)
 		(property "Value" "USB-A"
-			(at 3.5 14.5 270)
+			(at 3.5 14.5 -90)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "5dc7dc7f-0baf-41a5-9842-446a5dc83bf0")
@@ -993,7 +970,7 @@
 			(uuid "299851b9-bd4f-4d4a-8542-1c98814dcddc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.5 3.7 270)
+			(at 3.5 3.7 -90)
 			(layer "F.Fab")
 			(uuid "8623b0e2-bb24-4682-8a4a-932c3d94c5cd")
 			(effects
